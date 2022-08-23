@@ -29,7 +29,7 @@ df = hc.sql(query)
 
 
 
-""
+print('rama_config_spark')
 
 
 hc.sql('''
