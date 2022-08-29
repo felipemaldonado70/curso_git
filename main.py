@@ -32,6 +32,8 @@ df = hc.sql(query)
 print('rama_dev')
 ""
 
+print('rama_config_spark')
+
 
 hc.sql('''
 CREATE TABLE IF NOT EXISTS `bi_faro.bt_co_sap_facturacion_unificada`(	
